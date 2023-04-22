@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "71f826593e919985",
+    "type": "split",
+    "children": [
+      {
+        "id": "8007e9f1db0cbee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b71027f01186066",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Graphs/Tree.canvas",
+                "viewState": {
+                  "x": 436.0269456158158,
+                  "y": 199.2644951206741,
+                  "zoom": -3.50056403875351
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9db774803f8b87db",
+    "type": "split",
+    "children": [
+      {
+        "id": "d231e629e9fb01bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c1848676b167f92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b9ca55c143d674c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2665406573ac7a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405.50312423706055
+  },
+  "right": {
+    "id": "b94d5fa115dc4fc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "760e8dc7f7f9405e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0fc42a166132dc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Graphs/Tree.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5a62633b19a9bd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Graphs/Tree.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b43c39ac3692bca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92349825f3911817",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Graphs/Tree.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8b71027f01186066",
+  "lastOpenFiles": [
+    "netlify.toml",
+    "2023-04-20.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae/Ae Ae Jr <> Titilupe Soliai Alaga/Riley Filiva'a.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae/Ae Ae Jr <> Titilupe Soliai Alaga/Lagofa'atasi.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae/Ae Ae Jr <> Titilupe Soliai Alaga/Melvin.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae/Ae Ae Jr <> Titilupe Soliai Alaga/Ella.md",
+    "Graphs/Tree.canvas",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae/Ae Ae Jr <> Titilupe Soliai Alaga/Titilupe Soliai Alaga.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae/Ae Ae Jr.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae/Ae Ae Jr <> Titilupe Soliai Alaga/Ae Ae Jr <> Titilupe Soliai Alaga.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Media Fa'atamali'i <> Sese Sesepesara/Maeda <> Vavao Leiataua/Maeda <> Vavao Leiataua.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae/Ae Ae Jr <> Titilupe Soliai Alaga/Fiafaiva Charlotte.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae/Ae Ae Jr <> Titilupe Soliai Alaga/Salamo.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae/Ae Ae Jr <> Titilupe Soliai Alaga/Angela.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae/Ae Ae Jr <> Titilupe Soliai Alaga/David Alaga.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae/Ae Ae Jr <> Titilupe Soliai Alaga",
+    "Pulu<>Eseta Asuega/Taumiloga Pulu.md",
+    "Pulu<>Eseta Asuega/Uisaiga Pulu.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Fa'atamali'i Meida Stuart.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Sese Sesepesara.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Media Fa'atamali'i <> Sese Sesepesara/Afasa.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Media Fa'atamali'i <> Sese Sesepesara/Maeda <> Vavao Leiataua/Pouomalo.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Media Fa'atamali'i <> Sese Sesepesara/Media Fa'atamali'i <> Sese Sesepesara.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Media Fa'atamali'i <> Sese Sesepesara/Tasi.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Media Fa'atamali'i <> Sese Sesepesara/Maeda <> Vavao Leiataua/Moli.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Media Fa'atamali'i <> Sese Sesepesara/Maeda <> Vavao Leiataua/Suni.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Media Fa'atamali'i <> Sese Sesepesara/Maeda <> Vavao Leiataua/Vavao Jr.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Media Fa'atamali'i <> Sese Sesepesara/Maeda <> Vavao Leiataua/June.md",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Media Fa'atamali'i <> Sese Sesepesara/Maeda <> Vavao Leiataua",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Media Fa'atamali'i <> Sese Sesepesara",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart/Daisy Keise <> Ae",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Talalotu",
+    "Untitled.canvas",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga/Suluoleava Fuga Uga <> Henry Arthur Stuart",
+    "Untitled 2.canvas",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fuga Uga",
+    "Untitled 1.canvas",
+    "Pulu<>Eseta Asuega/Saitofi Pulu <> Fa'asetaumaga Liu",
+    "Pulu<>Eseta Asuega",
+    "Graphs"
+  ]
+}

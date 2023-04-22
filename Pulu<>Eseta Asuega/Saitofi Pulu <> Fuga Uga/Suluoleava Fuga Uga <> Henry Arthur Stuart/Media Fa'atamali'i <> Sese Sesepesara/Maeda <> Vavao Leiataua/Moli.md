@@ -1,0 +1,1 @@
+Born on 13 August 1967
